@@ -1,0 +1,2 @@
+# Code-for-Pre-hospital-midazolam-before-and-after-RAMPART
+SAS code for analysis of NEMSIS data (available with data use agreement from http://www.nemsis.org/reportingTools/requestNEMSISData.html) for PLOS ONE paper entitled Pre-hospital midazolam for benzodiazepine-treated seizures before and after the Rapid Anticonvulsant Medication Prior to Arrival Trial: A national observational cohort study, by Shtull-Leber, Silbergleit, and Meurer.
